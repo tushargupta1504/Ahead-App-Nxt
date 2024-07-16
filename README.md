@@ -14,11 +14,5 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
-## Deployed on Vercel
-
-https://ahead-app-anjali-kedia.vercel.app
 
 
